@@ -64,7 +64,8 @@ int main(){
 ```
 
 ```c#
-int main(){
+int main()
+{
   cout << "Hello World!";
 }
 ```
